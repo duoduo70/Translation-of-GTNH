@@ -1,4 +1,4 @@
 基于 git 仓库： https://github.com/Kiwi233/Translation-of-GTNH 构建
 本汉化包用于解决 Translation-of-GTNH 官方暂不支持GTNH2.2.8魔改汉化之问题
-
+如果有关于任何汉化的问题，请在 https://github.com/duoduo70/Translation-of-GTNH 中提交issue
 该汉化包并不完美，且可能造成误导，请谨慎使用
