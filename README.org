@@ -2,9 +2,12 @@
 *** [[https://github.com/duoduo70/Translation-of-GTNH-Unofficial/archive/refs/heads/master.zip][下载非官方汉化]]
 
     本项目是基于 *[[https://github.com/Kiwi233/Translation-of-GTNH][Translation-of-GTNH]]* 制作的非官方版本。
+
     感谢 Translation-of-GTNH 项目的汉化者。
+
     如果有关于任何汉化的问题，请在[[https://github.com/duoduo70/Translation-of-GTNH-Unofficial/issues/new/choose][本项目]]中（而不是官方版）提交issue
+
     该汉化包并不完美，且可能造成误导，请 *谨慎使用*
 
 *** Q&A: 为什么不并入官方汉化？
-这是一个学习之余的娱乐项目，相对于官方汉化追求严谨，本项目旨在让玩家（主要是我自己的朋友）更快的游玩到新版本（以及解决2200的地形生成bug），仅此而已，所以暂无意并入官方汉化。
+    这是一个学习之余的娱乐项目，相对于官方汉化追求严谨，本项目旨在让玩家（主要是我自己的朋友）更快的游玩到新版本（以及解决2200的地形生成bug），仅此而已，所以暂无意并入官方汉化。
