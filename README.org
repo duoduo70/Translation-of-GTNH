@@ -15,7 +15,7 @@
 
 *** 项目进展
 - [ x ] 更新/script/
-- [   ] 更新/resources/
+- [80%] 更新/resources/
 - [ x ] 更新任务书
 - [ x ] 更新GregTech.lang
 - [80%] 汉化GT++ （受GT++硬编码影响）
