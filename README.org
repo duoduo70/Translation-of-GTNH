@@ -1,4 +1,9 @@
 * Translation-of-GTNH-Unofficial
+
+* 弃坑啦！
+截至2023年1月26日，官方汉化已非常接近这个非官方版本，加上生活压力，本人遂停止汉化工作。
+有缘再见。
+
 *** 目前进度: 2.2.8 汉化可以正常游玩
 *** [[https://github.com/duoduo70/Translation-of-GTNH-Unofficial/archive/refs/heads/master.zip][下载非官方汉化]]
 
